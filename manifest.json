@@ -1,0 +1,15 @@
+{
+  "display_name": "功能性阅读器",
+  "loading_order": 120,
+  "requires": [],
+  "optional": [],
+  "js": "dist/index.js",
+  "css": "dist/index.css",
+  "author": "闲余",
+  "version": "1.0.1",
+  "homePage": "https://github.com/nameisnt/ziyong-dist",
+  "auto_update": true,
+  "i18n": {
+    "en": "i18n/en.json"
+  }
+}
